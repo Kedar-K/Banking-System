@@ -15,6 +15,12 @@ conn = mysql.connector.connect(
     database='banking'
 )
 
+
+cursor = conn.cursor()
+print("changing database to banking")
+cursor.execute("use banking;")
+cursor.close()  # Close the cursor
+
 cursor = conn.cursor()
 
 csv_file = "your_data.csv"  # Replace with the path to your CSV file

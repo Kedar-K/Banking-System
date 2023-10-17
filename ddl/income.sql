@@ -1,4 +1,4 @@
-CREATE TABLE income (
+CREATE TABLE IF NOT EXISTS income (
     income_range_id VARCHAR(255) PRIMARY KEY,
     income_range_min FLOAT NOT NULL,
     income_range_max FLOAT NOT NULL,
