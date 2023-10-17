@@ -11,7 +11,7 @@ database = "your_database"
 conn = mysql.connector.connect(
     host='127.0.0.1',
     user='root',
-    password='',
+    password='Naval007@',
     database='banking'
 )
 
