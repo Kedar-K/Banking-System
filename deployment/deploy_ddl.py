@@ -18,6 +18,10 @@ conn = mysql.connector.connect(
     database=database
 )
 
+cursor = conn.cursor()
+print("changing database to banking")
+cursor.execute("use banking;")
+cursor.close()  # Close the cursor
 
 tables_to_create = ["employers.sql", "branches.sql", "income.sql", "customers.sql", "loans.sql", "accounts.sql", "loans.sql", "transactions.sql"]
 
