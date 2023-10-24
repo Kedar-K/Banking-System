@@ -7,7 +7,7 @@ folder_path = "/Users/kedarkodgire/Desktop/Dev/Banking-System/ddl"
 # Database connection parameters
 host = "127.0.0.1"
 user = "root"
-password = "Naval007@"
+password = ""
 database = "banking"
 
 # Create a connection to the database
