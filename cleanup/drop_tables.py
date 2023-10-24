@@ -7,7 +7,7 @@ folder_path = "/Users/kedarkodgire/Desktop/Dev/Banking-System/ddl"
 # Database connection parameters
 host = "127.0.0.1"
 user = "root"
-password = ""
+password = "Naval007@"
 database = "banking"
 
 # Create a connection to the database
@@ -23,31 +23,48 @@ print("changing database to banking")
 cursor.execute("use banking;")
 cursor.close()  # Close the cursor
 
-tables_to_create = ["employers.sql", "branches.sql", "income.sql", "customers.sql", "loans.sql", "accounts.sql", "loans.sql", "transactions.sql"]
+tables_to_delete = [
+"transactions"
+,"transaction_type"
+,"branches"
+,"accounts"
+,"loans"
+,"customers"
+,"employers"
+,"income"
+]
 
-# Loop through the files in the folder
-for filename in tables_to_create:
-    if filename.endswith(".sql"):  # You can change the file extension to match your file type
-        file_path = os.path.join(folder_path, filename)
-        
-        # Open the file and read its content
-        with open(file_path, 'r') as file:
-            cursor = conn.cursor()
-            file_content = file.read()
-            # print(file_content)
-            try:
-                print(f"running ddl for {filename}...")
-                cursor.execute(file_content)
-                conn.commit()  # Commit the changes to the database
-                print(f"sucessfully ran ddl for {filename}. \n")               
-            except mysql.connector.Error as err:
-                print("Error:", err)
-                conn.rollback()  # Rollback changes if an error occurs
-                cursor.close()  # Close the cursor
-                conn.close() 
+# Loop through the tables 
+for table in tables_to_delete:
+    cursor = conn.cursor()
+    delete_content = f"DROP TABLE IF EXISTS {table}"
+    try:
+        print(f"running ddl for {table}...")
+        cursor.execute(delete_content)
+        conn.commit()  # Commit the changes to the database
+        print(f"sucessfully ran ddl for {table}. \n")               
+    except mysql.connector.Error as err:
+        print("Error:", err)
+        conn.rollback()  # Rollback changes if an error occurs
+        cursor.close()  # Close the cursor
+        conn.close() 
 
 cursor.close()  # Close the cursor
 conn.close()    # Close the connection
 
+
+
+
+
+# use banking;
+
+# DROP TABLE IF EXISTS `transactions`;
+# DROP TABLE IF EXISTS `transaction_types`;
+# DROP TABLE IF EXISTS `branchs`;
+# DROP TABLE IF EXISTS `accounts`;
+# DROP TABLE IF EXISTS `loans`;
+# DROP TABLE IF EXISTS `customers`;
+# DROP TABLE IF EXISTS `employers`;
+# DROP TABLE IF EXISTS `income`;
 
 
