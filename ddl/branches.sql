@@ -1,5 +1,6 @@
-CREATE TABLE IF NOT EXISTS branchs (
-    branch_id VARCHAR(255) PRIMARY KEY,
-    name VARCHAR(255) NOT NULL,
-    swift_code VARCHAR(255) NOT NULL
+CREATE TABLE IF NOT EXISTS branches (
+     branch_id VARCHAR(10) NOT NULL PRIMARY KEY,
+    name CHAR(50) NOT NULL,
+    address CHAR(50) NOT NULL,
+    swift_code CHAR(10) NOT NULL
 );
