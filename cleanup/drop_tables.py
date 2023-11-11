@@ -2,12 +2,11 @@ import pandas as pd
 import mysql.connector
 import os
 
-folder_path = "/Users/kedarkodgire/Desktop/Dev/Banking-System/ddl" 
 
 # Database connection parameters
 host = "127.0.0.1"
 user = "root"
-password = ""
+password = "Naval007@"
 database = "banking"
 
 # Create a connection to the database
@@ -26,8 +25,8 @@ cursor.close()  # Close the cursor
 tables_to_delete = [
 "transactions"
 ,"transaction_type"
-,"branches"
 ,"accounts"
+,"branches"
 ,"loans"
 ,"customers"
 ,"employers"
@@ -39,10 +38,10 @@ for table in tables_to_delete:
     cursor = conn.cursor()
     delete_content = f"DROP TABLE IF EXISTS {table}"
     try:
-        print(f"running ddl for {table}...")
+        print(f"running `drop` for {table}...")
         cursor.execute(delete_content)
         conn.commit()  # Commit the changes to the database
-        print(f"sucessfully ran ddl for {table}. \n")               
+        print(f"sucessfully ran `drop` for {table}. \n")               
     except mysql.connector.Error as err:
         print("Error:", err)
         conn.rollback()  # Rollback changes if an error occurs
