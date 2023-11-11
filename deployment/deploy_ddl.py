@@ -7,7 +7,7 @@ folder_path = "/Users/kedarkodgire/Desktop/Dev/Banking-System/ddl"
 # Database connection parameters
 host = "127.0.0.1"
 user = "root"
-password = ""
+password = "Naval007@"
 database = "banking"
 
 # Create a connection to the database
@@ -23,7 +23,7 @@ print("changing database to banking")
 cursor.execute("use banking;")
 cursor.close()  # Close the cursor
 
-tables_to_create = ["employers.sql", "branches.sql", "income.sql", "customers.sql", "loans.sql", "accounts.sql", "loans.sql", "transactions.sql"]
+tables_to_create = ["employers.sql", "branches.sql", "income.sql", "customers.sql", "loans.sql", "accounts.sql", "transaction_type.sql", "transactions.sql"]
 
 # Loop through the files in the folder
 for filename in tables_to_create:

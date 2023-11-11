@@ -1,7 +1,7 @@
 CREATE TABLE IF NOT EXISTS transactions (
     transaction_id VARCHAR(10) NOT NULL PRIMARY KEY,
     customer_id VARCHAR(10) NOT NULL,
-    type_id CHAR NOT NULL,
+    type_id VARCHAR(10) NOT NULL,
     account_id VARCHAR(10) NOT NULL,
     transaction_timestamp TIMESTAMP NOT NULL,
     credit FLOAT,

@@ -1,0 +1,101 @@
+﻿customer_id,customer_name,address,age ,gender,marital_status,employer_id,income_range_id
+C00001,Michael ,777 Brockton Avenue,45,M,Married,e00017,i00011
+C00002, Sarah ,30 Memorial Drive,49,F,Single,e00015,i00013
+C00003, Matthew ,250 Hartford Avenue,51,M,Married,e00021,i00003
+C00004,Emily ,700 Oak Street,40,F,Unknown,e00006,i00010
+C00005,Daniel ,66-4 Parkhurst Rd,40,M,Married,e00009,i00007
+C00006,Christopher ,591 Memorial Dr,44,M,Married,e00002,i00014
+C00007,Jessica ,55 Brooksby Village Way,51,F,Married,e00024,i00011
+C00008,David ,137 Teaticket Hwy,32,M,Unknown,e00026,i00002
+C00009,Jennifer ,42 Fairhaven Commons Way,37,F,Single,e00012,i00002
+C00010,Joshua ,374 William S Canning Blvd,48,M,Single,e00004,i00001
+C00011,James ,121 Worcester Rd,42,M,Unknown,e00020,i00006
+C00012,Ashley ,677 Timpany Blvd,65,F,Married,e00022,i00010
+C00013,John ,337 Russell St,56,M,Single,e00001,i00015
+C00014,Robert ,295 Plymouth Street,35,M,Unknown,e00028,i00012
+C00015,Megan ,1775 Washington St,57,F,Married,e00018,i00004
+C00016,William ,280 Washington Street,44,M,Unknown,e00019,i00008
+C00017,Joseph ,20 Soojian Dr,48,M,Single,e00016,i00001
+C00018,Amanda ,11 Jungle Road,41,F,Married,e00027,i00013
+C00019,Ryan ,301 Massachusetts Ave,61,M,Married,e00008,i00003
+C00020,Samantha ,780 Lynnway,45,F,Married,e00003,i00005
+C00021,Andrew ,70 Pleasant Valley Street,47,M,Divorced,e00007,i00005
+C00022,Nicholas ,830 Curran Memorial Hwy,62,M,Married,e00010,i00009
+C00023,Elizabeth ,1470 S Washington St,41,F,Married,e00011,i00004
+C00024,Justin ,506 State Road,47,M,Single,e00005,i00009
+C00025,Tyler ,742 Main Street,54,M,Married,e00025,i00007
+C00026,Lauren ,72 Main St,41,F,Single,e00014,i00015
+C00027,Brandon ,200 Otis Street,59,M,Unknown,e00023,i00014
+C00028,Jacob ,180 North King Street,63,M,Married,e00013,i00008
+C00029,Hannah ,555 East Main St,44,F,Single,e00018,i00012
+C00030,Jonathan ,555 Hubbard Ave-Suite 12,47,M,Married,e00028,i00006
+C00031,Zachary ,300 Colony Place,53,M,Married,e00001,i00014
+C00032,Alyssa ,301 Falls Blvd,53,F,Married,e00016,i00004
+C00033,Kevin,36 Paramount Drive,41,M,Married,e00017,i00015
+C00034,Cody ,450 Highland Ave,53,M,Married,e00004,i00010
+C00035,Victoria ,1180 Fall River Avenue,58,F,Married,e00019,i00007
+C00036,Eric ,1105 Boston Road,55,M,Single,e00027,i00002
+C00037,Brian ,100 Charlton Road,55,M,Married,e00006,i00008
+C00038,Kayla ,262 Swansea Mall Dr,42,F,Married,e00022,i00013
+C00039,Thomas ,333 Main Street,57,M,Unknown,e00008,i00006
+C00040,Benjamin ,550 Providence Hwy,66,M,Married,e00026,i00005
+C00041,Michelle ,352 Palmer Road,45,F,Single,e00024,i00007
+C00042,Timothy ,3005 Cranberry Hwy Rt 6 28,51,M,Married,e00014,i00011
+C00043,Austin ,250 Rt 59,50,M,Single,e00005,i00001
+C00044,Stephanie ,141 Washington Ave Extension,49,F,Married,e00015,i00003
+C00045,Anthony ,13858 Rt 31 W,38,M,Single,e00021,i00001
+C00046,Caleb ,2055 Niagara Falls Blvd,49,M,Single,e00010,i00013
+C00047,Brittany ,101 Sanford Farm Shpg Center,56,F,Married,e00012,i00008
+C00048,Richard ,297 Grant Avenue,59,M,Married,e00003,i00004
+C00049,Ethan ,4133 Veterans Memorial Drive,46,M,Married,e00007,i00009
+C00050,Olivia ,6265 Brockport Spencerport Rd,52,F,Single,e00002,i00012
+C00051,Charles ,5399 W Genesse St,52,M,Married,e00026,i00011
+C00052,Samuel ,3191 County rd 10,54,M,Married,e00028,i00006
+C00053,Nicole ,30 Catskill,66,F,Married,e00017,i00004
+C00054,Jeremy ,161 Centereach Mall,49,M,Married,e00025,i00003
+C00055,Logan,3018 East Ave,56,M,Married,e00024,i00012
+C00056,Kelsey ,100 Thruway Plaza,49,F,Unknown,e00006,i00007
+C00057,Alexander ,8064 Brewerton Rd,49,M,Single,e00022,i00008
+C00058,Patrick ,5033 Transit Road,56,M,Married,e00013,i00009
+C00059,Rachel ,3949 Route 31,44,F,Married,e00016,i00005
+C00060,Steven ,139 Merchant Place,42,M,Single,e00011,i00015
+C00061,Nathan ,85 Crooked Hill Road,55,M,Married,e00009,i00002
+C00062,Maria ,872 Route 13,48,F,Married,e00001,i00011
+C00063,Sean ,279 Troy Road,39,M,Divorced,e00023,i00014
+C00064,Jesse ,2465 Hempstead Turnpike,44,M,Single,e00004,i00013
+C00065,Christina ,6438 Basile Rowe,53,F,Single,e00014,i00010
+C00066,Mark ,25737 US Rt 11,51,M,Single,e00008,i00005
+C00067,Hunter,901 Route 110,57,M,Married,e00015,i00007
+C00068,Amber ,2400 Route 9,44,F,Single,e00027,i00008
+C00069,Phillip ,10401 Bennett Road,49,M,Married,e00010,i00005
+C00070,Blake ,1818 State Route 3,50,M,Married,e00012,i00003
+C00071,Madison ,4300 Lakeville Road,51,F,Single,e00005,i00009
+C00072,Cameron ,990 Route 5 20,55,M,Married,e00025,i00004
+C00073,Trevor ,311 RT 9W,54,M,Unknown,e00018,i00001
+C00074,Laura ,200 Dutch Meadows Ln,42,F,Married,e00002,i00010
+C00075,Gregory ,100 Elm Ridge Center Dr,44,M,Single,e00020,i00015
+C00076,Shane ,1549 Rt 9,53,M,Single,e00021,i00014
+C00077,Erin ,5360 Southwestern Blvd,44,F,Single,e00007,i00012
+C00078,Evan ,103 North Caroline St,37,M,Single,e00003,i00006
+C00079,Luke ,1000 State Route 36,49,M,Divorced,e00028,i00008
+C00080,Tiffany ,1400 County Rd 64,47,F,Married,e00024,i00002
+C00081,Christian ,135 Fairgrounds Memorial Pkwy,47,M,Married,e00014,i00014
+C00082,Devin ,2 Gannett Dr,44,M,Unknown,e00019,i00010
+C00083,Crystal ,233 5th Ave Ext,55,F,Married,e00009,i00004
+C00084,Seth ,601 Frank Stottile Blvd,59,M,Married,e00022,i00008
+C00085,Derek ,350 E Fairmount Ave,53,M,Divorced,e00015,i00013
+C00086,Megan ,4975 Transit Rd,52,F,Married,e00017,i00015
+C00087,Oscar ,579 Troy-Schenectady Road,53,M,Single,e00006,i00002
+C00088,Martin ,5783 So Transit Road,43,M,Single,e00023,i00001
+C00089,Teresa ,7155 State Rt 12 S,44,F,Single,e00028,i00007
+C00090,Henry ,425 Route 31,57,M,Married,e00010,i00013
+C00091,Antonio ,3222 State Rt 11,51,M,Single,e00012,i00006
+C00092,Wendy ,200 Sunrise Mall,49,F,Single,e00001,i00011
+C00093,Larry ,43 Stephenville St,45,M,Single,e00004,i00005
+C00094,Randall ,750 Middle Country Road,53,M,Single,e00027,i00012
+C00095,Paula ,470 Route 211 East,45,F,Married,e00025,i00009
+C00096,Walter ,3133 E Main St,64,M,Married,e00002,i00010
+C00097,Bradley ,288 Larkin,45,M,Married,e00020,i00003
+C00098,Suzanne ,41 Anawana Lake Road,53,F,Married,e00021,i00003
+C00099,Gerald ,4765 Commercial Drive,56,M,Married,e00026,i00001
+C00100,Frank ,1201 Rt 300,47,M,Married,e00016,i00002

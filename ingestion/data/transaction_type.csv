@@ -1,0 +1,9 @@
+﻿transaction_type_id,type
+t00001,Deposit
+t00002,withdrawal
+t00003,Purchsing
+t00004,inboundCheque
+t00005,Fees
+t00006,outbound transfer
+t00007,inbound transfer
+t00008,outboundCheque

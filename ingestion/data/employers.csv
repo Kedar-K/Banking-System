@@ -1,0 +1,32 @@
+﻿employer_id,name,employer_tier,hq_address,num_of_employees
+e00001,ABC Tech Solutions,Small,"1234 Elm Street, Toronto, ON M5G 1K2",25
+e00002,XYZ Innovations,Medium,"5678 Oak Avenue, Vancouver, BC V6E 1N7",70
+e00003,Byte Dynamics,Small,"4321 Birch Road, Calgary, AB T2E 1V4",15
+e00004,Bright Ventures,Medium,"9876 Maple Lane, Montreal, QC H3B 2Y9",50
+e00005,Macro Systems,Large,"3456 Cedar Drive, Ottawa, ON K1P 5T2",120
+e00006,Quantum Networks,Medium,"6789 Pine Avenue, Edmonton, AB T5J 2H5",35
+e00007,Nova Software,Large,"7890 Spruce Street, Halifax, NS B3H 1P2",80
+e00008,MicroLabs,Small,"1357 Willow Place, Winnipeg, MB R3C 1Y6",12
+e00009,OmniCorp,Large,"2468 Redwood Road, Quebec City, QC G1V 4L9",200
+e00010,Fusion Enterprises,Medium,"1470 Pinecone Court, Regina, SK S4P 3L6",60
+e00011,InnovateX,Small,"4569 Juniper Avenue, St. John's, NL A1B 3R7",18
+e00012,Synergy Solutions,Large,"8743 Cedarwood Lane, Victoria, BC V8P 5M7",90
+e00013,Zephyr Industries,Medium,"3650 Elmwood Road, Hamilton, ON L8P 3B4",40
+e00014,Swift Innovations,Large,"2589 Birchwood Place, Sherbrooke, QC J1E 2P5",75
+e00015,Horizon Systems,Small,"7521 Oakhill Avenue, Saskatoon, SK S7K 4E8",10
+e00016,Acme Technologies,Large,"9634 Cedar Lane, London, ON N6A 2W9",150
+e00017,DataWave Inc.,Medium,"5621 Redwood Drive, Moncton, NB E1C 9P1",55
+e00018,Precision IT,Medium,"1324 Willow Street, Winnipeg, MB R3C 3P6",30
+e00019,Quantum Solutions,Large,"4587 Spruce Avenue, Ottawa, ON K1A 0G4",110
+e00020,SmartWare,Medium,"9852 Pine Street, Quebec City, QC G1R 1A1",45
+e00021,NovaGlobe,Medium,"3658 Elm Avenue, Edmonton, AB T5G 1P3",65
+e00022,Visionary Software,Small,"7531 Oakwood Court, Victoria, BC V8N 2C8",20
+e00023,Alpha Innovations,Large,"5469 Cedar Lane, Halifax, NS B3L 2E6",80
+e00024,Synergetic Corp,Small,"2357 Redwood Drive, Toronto, ON M5H 3M4",25
+e00025,MacroTech,Large,"6321 Birch Road, Calgary, AB T2V 3Z5",130
+e00026,ByteCrafters,Medium,"8745 Elmwood Avenue, Montreal, QC H3H 1R2",30
+e00027,MicroFusion,Large,"3650 Pinecone Road, Winnipeg, MB R2W 1N9",100
+e00028,Synergy Systems,Medium,"7532 Cedarwood Court, Vancouver, BC V6B 1S4",40
+e00029,TechWave Solutions,Large,"2584 Oakhill Road, Ottawa, ON K1H 4G6",85
+e00030,Precision Innovate,Small,"3659 Willow Street, Regina, SK S4T 1K7",22
+e00031,Global Technologies,Large,"7890 Spruce Avenue, St. John's, NL A1C 1R8",170

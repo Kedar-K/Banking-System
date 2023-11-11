@@ -1,0 +1,101 @@
+﻿branch_id,name,address,swift_code
+B00001,Toronto,777 Brockton Avenue ,MA 2351
+B00002,Vancouver,30 Memorial Drive,MA 2322
+B00003,Montreal,250 Hartford Avenue ,MA 2019
+B00004,Calgary,700 Oak Street ,MA 2301
+B00005,Ottawa,66-4 Parkhurst Rd ,MA 1824
+B00006,Edmonton,591 Memorial Dr,MA 1020
+B00007,Winnipeg,55 Brooksby Village Way,MA 1923
+B00008,Quebec,137 Teaticket Hwy,MA 2536
+B00009,Hamilton,42 Fairhaven Commons Way ,MA 2719
+B00010,London,374 William S Canning Blvd ,MA 2721
+B00011,Halifax,121 Worcester Rd ,MA 1701
+B00012,Surrey,677 Timpany Blvd,MA 1440
+B00013,Mississauga,337 Russell St,MA 1035
+B00014,Brampton,295 Plymouth Street ,MA 2338
+B00015,Markham,1775 Washington St ,MA 2339
+B00016,Windsor,280 Washington Street ,MA 1749
+B00017,Oshawa,20 Soojian Dr,MA 1524
+B00018,Saskatoon,11 Jungle Road ,MA 1453
+B00019,Regina,301 Massachusetts Ave,MA 1462
+B00020,Sherbrooke,780 Lynnway,MA 1905
+B00021,Barrie,70 Pleasant Valley Street ,MA 1844
+B00022,St. John's,830 Curran Memorial Hwy,MA 1247
+B00023,Kelowna,1470 S Washington St,MA 2760
+B00024,Abbotsford,506 State Road,MA 2747
+B00025,Trois-Rivieres,742 Main Street,MA 1537
+B00026,Guelph,72 Main St,MA 1864
+B00027,Kingston,200 Otis Street,MA 1532
+B00028,Thunder Bay,180 North King Street,MA 1060
+B00029,Vaughan,555 East Main St,MA 1364
+B00030,St. Catharines,555 Hubbard Ave-Suite 12,MA 1201
+B00031,Kitchener,300 Colony Place ,MA 2360
+B00032,Richmond,301 Falls Blvd,MA 2169
+B00033,Burnaby,36 Paramount Drive,MA 2767
+B00034,Laval,450 Highland Ave ,MA 1970
+B00035,Richmond Hill,1180 Fall River Avenue,MA 2771
+B00036,Coquitlam,1105 Boston Road,MA 1119
+B00037,North Vancouver,100 Charlton Road ,MA 1566
+B00038,Airdrie,262 Swansea Mall Dr,MA 2777
+B00039,Saanich,333 Main Street,MA 1876
+B00040,Gatineau,550 Providence Hwy,MA 2081
+B00041,Longueuil,352 Palmer Road ,MA 1082
+B00042,LaSalle,3005 Cranberry Hwy Rt 6 28,MA 2538
+B00043,Brossard,250 Rt 59 ,NY 10901
+B00044,Levis,141 Washington Ave Extension ,NY 12205
+B00045,Moncton,13858 Rt 31 W ,NY 14411
+B00046,Burlington,2055 Niagara Falls Blvd ,NY 14228
+B00047,Red Deer,101 Sanford Farm Shpg Center,NY 12010
+B00048,Nanaimo,297 Grant Avenue ,NY 13029
+B00049,Whitehorse,4133 Veterans Memorial Drive,NY 14020
+B00050,Victoria,6265 Brockport Spencerport Rd,NY 14420
+B00051,Kamloops,5399 W Genesse St,NY 13031
+B00052,Fredericton,3191 County rd 10,NY 13021
+B00053,Saint John,30 Catskil,NY 12414
+B00054,Lethbridge,161 Centereach Mall ,NY 11720
+B00055,Vernon,3018 East Ave ,NY 13036
+B00056,Medicine Hat,100 Thruway Plaza,NY 14225
+B00057,Fort McMurray,8064 Brewerton Rd,NY 13039
+B00058,Chilliwack,5033 Transit Road,NY 14031
+B00059,Sarnia,3949 Route 31,NY 13041
+B00060,Sault Ste. Marie,139 Merchant Place,NY 12043
+B00061,Penticton,85 Crooked Hill Road,NY 11725
+B00062,Prince George,872 Route 13,NY 13045
+B00063,Corner Brook,279 Troy Road,NY 12061
+B00064,Rimouski,2465 Hempstead Turnpike,NY 11554
+B00065,Miramichi,6438 Basile Rowe ,NY 13057
+B00066,Bathurst,25737 US Rt 11,NY 13637
+B00067,Newmarket,901 Route 110,NY 11735
+B00068,Brandon,2400 Route 9,NY 12524
+B00069,Owen Sound,10401 Bennett Road ,NY 14063
+B00070,Portage,1818 State Route 3,NY 13069
+B00071,Moose Jaw,4300 Lakeville Road,NY 13032
+B00072,Lacombe,990 Route 5 20 ,NY 14456
+B00073,Brooks,311 RT 9W,NY 12077
+B00074,Woodstock,200 Dutch Meadows Ln ,NY 12302
+B00075,Stratford,100 Elm Ridge Center Dr ,NY 14626
+B00076,Campbellton,1549 Rt 9 ,NY 12065
+B00077,Charlottetown,5360 Southwestern Blvd,NY 14075
+B00078,Summerside,103 North Caroline St,NY  14845
+B00079,North Bay,1000 State Route 36,NY 14843
+B00080,Timmins,1400 County Rd 64,NY 14845
+B00081,Kenora,135 Fairgrounds Memorial Pkwy ,NY 14850
+B00082,Selkirk,2 Gannett Dr,NY 13790
+B00083,Steinbach,233 5th Ave Ext ,NY 12095
+B00084,Dauphin,601 Frank Stottile Blvd,NY 12401
+B00085,Thompson,350 E Fairmount Ave,NY 14750
+B00086,Flin Flon,4975 Transit Rd,NY 14086
+B00087,Cranbrook,579 Troy-Schenectady Road,NY 12110
+B00088,Nelson,5783 So Transit Road,NY 14094
+B00089,Quesnel,7155 State Rt 12 S ,NY 13367
+B00090,Terrace,425 Route 31 ,NY 14502
+B00091,Prince Rupert,3222 State Rt 11 ,NY 12953
+B00092,Yellowknife,200 Sunrise Mall,NY 11758
+B00093,Iqaluit,43 Stephenville St ,NY 13662
+B00094,White Rock,750 Middle Country Road ,NY 11953
+B00095,Lloydminster,470 Route 211 East,NY 10940
+B00096,Swift Current,3133 E Main St ,NY 10547
+B00097,Yorkton,288 Larkin,NY 10950
+B00098,Orillia,41 Anawana Lake Road,NY 12701
+B00099,Mirabel,4765 Commercial Drive,NY 13413
+B00100,Cranbrook,1201 Rt 300 ,NY 12550
