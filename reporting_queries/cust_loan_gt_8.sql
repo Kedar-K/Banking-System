@@ -1,3 +1,5 @@
+-- This SQL will tell about the customers with a loan type where the interest rate is greater than 8.
+
 SELECT
     customer_name,
     loan_type loan_type,

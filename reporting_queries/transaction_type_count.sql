@@ -1,3 +1,5 @@
+-- This provides the information about different transaction types, Shows which service is popular and which service can be improved.
+
 SELECT
     type transaction_type,
     count(*) transaction_type_count

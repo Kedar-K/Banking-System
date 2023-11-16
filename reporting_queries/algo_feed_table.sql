@@ -1,3 +1,7 @@
+-- This SQL combines the multiple dimentions into one table which can then be used to feed to different algorithms 
+-- for example, determining if the loan can be provided to the particular person, or in determining the credit score.
+-- This example represents the star schema, where we have multiple dimensions and they are combined into a single fact entity.
+
 SELECT
     c.customer_id,
     coalesce(l.loan_type, "no loan") loan,
